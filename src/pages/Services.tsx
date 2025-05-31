@@ -17,7 +17,7 @@ const Services = () => {
     "provider": {
       "@type": "Organization",
       "name": "DesignDeliverGrow",
-      "url": "https://www.designdelivergrow.com"
+      "url": "https://www.designdelivergrow.store"
     },
     "areaServed": {
       "@type": "Country",
