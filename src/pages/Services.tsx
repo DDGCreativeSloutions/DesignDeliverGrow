@@ -23,7 +23,7 @@ const Services = () => {
       "@type": "Country",
       "name": "India"
     },
-    "description": "Comprehensive digital solutions including web design, student project assistance, social media marketing, and educational courses.",
+    "description": "Comprehensive digital solutions including web design, student project assistance, social media marketing, and educational workshops.",
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
       "name": "DesignDeliverGrow Services",
@@ -255,7 +255,7 @@ const Services = () => {
         title="Our Services | Web Design, Project Assistance & Digital Growth"
         description="Explore our wide range of services including website development, student project support, and marketing solutions with transparent pricing."
         schema={servicesSchema}
-        keywords="web design services, student project help, social media marketing, educational courses, transparent pricing"
+        keywords="web design services, student project help, social media marketing, educational workshops, transparent pricing"
       />
 
       {/* Hero Section */}
