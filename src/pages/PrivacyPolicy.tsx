@@ -92,8 +92,8 @@ const PrivacyPolicy = () => {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">11. Contact Us</h2>
           <p>If you have any questions about this Privacy Policy or want to exercise your data rights, you can contact us at:</p>
-          <p><strong>Email:</strong> <a href="mailto:info@designdelivergrow.com">info@designdelivergrow.com</a></p>
-          <p><strong>Website:</strong> <a href="https://www.designdelivergrow.com">www.designdelivergrow.com</a></p>
+          <p><strong>Email:</strong> <a href="mailto:info@designdelivergrow.store">info@designdelivergrow.store</a></p>
+          <p><strong>Website:</strong> <a href="https://www.designdelivergrow.store">www.designdelivergrow.store</a></p>
         </section>
       </div>
     </div>

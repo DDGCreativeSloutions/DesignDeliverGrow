@@ -424,7 +424,7 @@ const Services = () => {
             <Button 
               size="lg" 
               onClick={() => navigate('/contact')}
-              className="bg-white text-blue-600 hover:bg-gray-100 text-lg px-8 py-3"
+              className="bg-white text-purple-600 hover:bg-white hover:text-blue-600 text-lg px-8 py-3"
             >
               Book Free Consultation
             </Button>
@@ -432,7 +432,7 @@ const Services = () => {
               size="lg" 
               variant="outline" 
               onClick={() => navigate('/projects')}
-              className="border-white text-white hover:bg-white hover:text-blue-600 text-lg px-8 py-3"
+              className="border-white text-blue-600 hover:bg-white hover:text-purple-600 text-lg px-8 py-3"
             >
               View Our Work
             </Button>
