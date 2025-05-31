@@ -50,7 +50,7 @@ DesignDeliverGrow is a full-stack platform offering **professional web design**,
 * 🎓 Engaging, interactive **student projects portfolio**
 * 🧠 Curated **courses** to skill up with real-world examples
 * 🔍 **SEO-optimized structure** & **schema markup** for better ranking
-* 📧 Professional email: `info@designdelivergrow.com`
+* 📧 Professional email: `info@designdelivergrow.store`
 
 ---
 
@@ -58,8 +58,8 @@ DesignDeliverGrow is a full-stack platform offering **professional web design**,
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/designdelivergrow.git
-cd designdelivergrow
+git clone https://github.com/DDGCreativeSloutions/DesignDeliverGrow.git
+cd DesignDeliverGrow
 
 # Install dependencies
 npm install
